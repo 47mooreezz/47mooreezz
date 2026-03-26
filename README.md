@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hola, soy Álvaro Moreno Gómez 
+Soy estudiante de 2º de Ingeniería informática en la ESIIAB.
+Actualmente también aprendiendo Python de forma autodidacta.
 
+
+### 🛠️ Tecnologías que utilizo:
+-LENGUAJES: C, JAVA, SQL.
+-HERRAMIENTAS: VS CODE, JetBrains IDEs.
+
+### 📫 Cómo contactarme:
+-EMAIL: amorenog178@gmail.com
+-LINKEDIN: www.linkedin.com/in/alvaro-moreno-gómez-6317a4330
 <!--
 **47mooreezz/47mooreezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
